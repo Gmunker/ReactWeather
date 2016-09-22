@@ -3,7 +3,7 @@ var React = require('react');
 var About = (props) => {
     return (
         <div className="row">
-            <h1 className="text-center">About</h1>
+            <h1 className="text-center page-title">About</h1>
             <p>This is my first full ReactJS project, It also is the first first project to be commited to GitHub and Heroku. This is just another step in the right direction as a web developer!</p>
             <p>Please visit my <a href="http://www.munkerdesigns.com" target="_blank" >personal page (munkerDesigns.com)</a> which will be getting updated after I learn more about ReactJS.</p>
             <h5>Languages and Tools I used in this project include:</h5>
